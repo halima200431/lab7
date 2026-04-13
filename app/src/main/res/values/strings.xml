@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stars Gallery</string>
+    <string name="search_hint">Rechercher une star...</string>
+    <string name="share_text">Découvrez l\'application Stars Gallery !</string>
+    <string name="share_title">Partager Stars Gallery</string>
+    <string name="rating_title">Évaluer la star</string>
+    <string name="rating_message">Donnez une note entre 1 et 5 :</string>
+    <string name="btn_validate">Valider</string>
+    <string name="btn_cancel">Annuler</string>
+</resources>
